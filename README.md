@@ -1,5 +1,33 @@
 # E-Commerce Back End
 
+
+## Table of Contents
+Description
+Installation
+Usage
+License
+Contributing
+Tests
+
+## Description
+build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database
+
+## Installation
+Ensure you are in the develop directory, type npm run seed then npm start
+
+## Usage
+A working backend of an e-commerce site
+
+License
+This application is covered under the MIT license. Copyright (c) 2020 Mark Shelgren
+
+Contributing
+Support from TA's Github users youtube tutorials 
+
+Tests
+Tested the GET, PUT, POST and DELETE routes numerous times
+
+
 ## Description
 
 This application allows the user to create a preset database and then connect to it via API calls and perform operations on the different entries.
@@ -19,4 +47,4 @@ The user can perform various CRUD operations on these tables via API calls:
 - DELETE routes to delete a single category, single product, and single tag
 
 ## Walkthrough Video
-[e-Commerce Back End Walkthrough](https://drive.google.com/file/d/14uCi4sQjm7VsonqWx-ZN4Rcq-H0ZRx-R/view)
+

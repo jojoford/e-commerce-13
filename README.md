@@ -8,6 +8,7 @@ Usage
 License
 Contributing
 Tests
+Walkthrough video
 
 ## Description
 build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database
@@ -48,4 +49,4 @@ Create schema from MySQL shell >>
 -Npm run seed >>
 -npm start >>
 Then show Get routes
-<iframe src="https://drive.google.com/file/d/1ZzJ37h5ojAHfJ5Bl4MsTMl1NjtkRtM1x/preview" width="640" height="480"></iframe>
+< src="https://drive.google.com/file/d/1ZzJ37h5ojAHfJ5Bl4MsTMl1NjtkRtM1x/preview" >

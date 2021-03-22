@@ -44,8 +44,8 @@ The user can perform various CRUD operations on these tables via API calls:
 - DELETE routes to delete a single category, single product, and single tag
 
 ## Walkthrough Video
-Create schema from MySQL shell
--Npm run seed 
--npm start
+Create schema from MySQL shell >>
+-Npm run seed >>
+-npm start >>
 Then show Get routes
 <iframe src="https://drive.google.com/file/d/1ZzJ37h5ojAHfJ5Bl4MsTMl1NjtkRtM1x/preview" width="640" height="480"></iframe>

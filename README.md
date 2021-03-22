@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-*Description
+* Description *
 *Installation
 *Usage
 *License

@@ -18,13 +18,10 @@ Ensure you are in the develop directory, type npm run seed then npm start
 ## Usage
 A working backend of an e-commerce site
 
-License
-This application is covered under the MIT license. Copyright (c) 2020 Mark Shelgren
-
-Contributing
+## Contributing
 Support from TA's Github users youtube tutorials 
 
-Tests
+## Tests
 Tested the GET, PUT, POST and DELETE routes numerous times
 
 
@@ -47,4 +44,8 @@ The user can perform various CRUD operations on these tables via API calls:
 - DELETE routes to delete a single category, single product, and single tag
 
 ## Walkthrough Video
-
+Create schema from MySQL shell
+-Npm run seed 
+-npm start
+Then show Get routes
+<iframe src="https://drive.google.com/file/d/1ZzJ37h5ojAHfJ5Bl4MsTMl1NjtkRtM1x/preview" width="640" height="480"></iframe>
